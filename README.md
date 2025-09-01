@@ -4,6 +4,7 @@
 Statistical analysis of the Boston Housing Dataset to identify key factors influencing median home values using hypothesis testing, correlation analysis, and regression modeling.
 
 🔍 Key Findings
+
 ✅ Proximity to Charles River
 Significant impact on home values (p < 0.05)
 Homes near the river have higher median values
